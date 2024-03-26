@@ -3,7 +3,8 @@
 - 👀  I like to work on datasets and find patterns and relationships within the data
 - 💻  My Skills include Python, SQL, PowerBI, Machine Learning, numpy, pandas, pyCharm...
 - 📊  I love to make visually appealing dashboards to derive useful insights
-- 📧 rushikharat19@gmail.com 
+- 📧 rushikharat19@gmail.com
+- 📄 My Resume - https://drive.google.com/file/d/1NZKPzUdJZDdJOsL7laFUbmPUs_MhtVb6/view?usp=sharing
 
 <br/>
 
