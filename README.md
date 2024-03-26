@@ -25,7 +25,8 @@ TECH STACK
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-![Uploading image.png…]()
+![image](https://github.com/Rushikesh-Kharat/Rushikesh-Kharat/assets/99657888/51d081a5-9b9e-44a3-9448-a4a1f3d8a616)
+
 
 
 <!---
