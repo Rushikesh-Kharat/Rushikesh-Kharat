@@ -8,7 +8,7 @@
 
 <br/>
 
-TECH STACK
+**TECH STACK**
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -26,6 +26,8 @@ TECH STACK
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
+
+<br/>
 
 
 ![image](https://github.com/Rushikesh-Kharat/Rushikesh-Kharat/assets/99657888/51d081a5-9b9e-44a3-9448-a4a1f3d8a616)
