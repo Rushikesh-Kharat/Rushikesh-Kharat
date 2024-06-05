@@ -1,10 +1,10 @@
 - 👋  Hi, I’m @Rushikesh_Kharat
 - 📉  I’m a Data-Analyst | Power BI Developer 
 - 👀  I like to work on datasets and find patterns and relationships within the data
-- 💻  My Skills include Python, SQL, PowerBI, Machine Learning, numpy, pandas, pyCharm...
+- 💻  My Skills include Python, SQL, PowerBI, Machine Learning, Numpy, Pandas, pyCharm...
 - 📊  I love to make visually appealing dashboards to derive useful insights
 - 📧 rushikharat19@gmail.com
-- 📄 My Resume - https://drive.google.com/file/d/1NZKPzUdJZDdJOsL7laFUbmPUs_MhtVb6/view?usp=sharing
+- 📄 My Resume - https://drive.google.com/file/d/1-in7t99_bvO3Sokys0jCjLGyffAQf_yK/view?usp=sharing
 
 <br/>
 
